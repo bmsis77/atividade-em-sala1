@@ -1,1 +1,2 @@
-# atividade-em-sala1
+# atividade-em-sala
+Bryan Machado
